@@ -1,10 +1,3 @@
-/*
-    Alunos:
-    Chloe Anne Scaramal - 12311BSI232
-    João Vitor Serra - 12311BSI254
-    Samira Rodrigues Silva - 12311BSI203
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
